@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="newParticleSystem.cs">
+    <Files>
+      <File FileName="newParticle.cs" Line="1" Column="1" />
+      <File FileName="newParticleSystem.cs" Line="64" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

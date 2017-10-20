@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Pixel.png</Source>
+      <Name>Pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\Pixel.xnb</Output>
+      <Time>2013-07-14T12:07:21.7898858+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rect.png</Source>
+      <Name>rect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\rect.xnb</Output>
+      <Time>2013-12-26T11:51:29.4331173+01:00</Time>
+    </Item>
+    <Item>
+      <Source>city.png</Source>
+      <Name>city</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\city.xnb</Output>
+      <Time>2013-07-26T22:22:34.554306+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Light.png</Source>
+      <Name>Light</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\Light.xnb</Output>
+      <Time>2013-08-13T12:38:22.3032154+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-07-15T10:35:29.5859593+02:00</Time>
+    </Item>
+    <Item>
+      <Source>KryptonEffect.fx</Source>
+      <Name>KryptonEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\KryptonEffect.xnb</Output>
+      <Time>2013-08-02T10:59:33.2507909+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\glassbreaking.wav</Source>
+      <Name>Sounds\glassbreaking</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\Sounds\glassbreaking.xnb</Output>
+      <Time>2013-08-24T17:06:46.4873602+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion_1.png</Source>
+      <Name>explosion_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\explosion_1.xnb</Output>
+      <Time>2013-08-26T18:48:16.932131+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion_2.png</Source>
+      <Name>explosion_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\explosion_2.xnb</Output>
+      <Time>2013-08-26T18:49:50.7848366+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion_3.png</Source>
+      <Name>explosion_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\explosion_3.xnb</Output>
+      <Time>2013-08-26T18:50:07.3498902+02:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion_4.png</Source>
+      <Name>explosion_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\explosion_4.xnb</Output>
+      <Time>2013-08-26T18:50:21.710941+02:00</Time>
+    </Item>
+    <Item>
+      <Source>plosion_1.png</Source>
+      <Name>plosion_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\plosion_1.xnb</Output>
+      <Time>2013-08-26T18:29:43.2582101+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Plosion_3.png</Source>
+      <Name>Plosion_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\Plosion_3.xnb</Output>
+      <Time>2013-08-26T18:29:43.2582101+02:00</Time>
+    </Item>
+    <Item>
+      <Source>plosion_2.png</Source>
+      <Name>plosion_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">0, 0, 0, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\plosion_2.xnb</Output>
+      <Time>2013-08-26T19:13:04.0417475+02:00</Time>
+    </Item>
+    <Item>
+      <Source>highrespic.png</Source>
+      <Name>highrespic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\highrespic.xnb</Output>
+      <Time>2013-12-01T12:43:17.9726793+01:00</Time>
+    </Item>
+    <Item>
+      <Source>spritesheet.png</Source>
+      <Name>spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\spritesheet.xnb</Output>
+      <Time>2014-04-21T20:53:38.2992313+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Bloom\BloomCombine.fx</Source>
+      <Name>Bloom\BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\Bloom\BloomCombine.xnb</Output>
+      <Time>2014-03-08T17:33:57.299273+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bloom\BloomExtract.fx</Source>
+      <Name>Bloom\BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\Bloom\BloomExtract.xnb</Output>
+      <Time>2014-03-08T17:33:57.3012731+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bloom\GaussianBlur.fx</Source>
+      <Name>Bloom\GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\Bloom\GaussianBlur.xnb</Output>
+      <Time>2014-03-08T17:56:54.0970213+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-07T21:23:02.0903031+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

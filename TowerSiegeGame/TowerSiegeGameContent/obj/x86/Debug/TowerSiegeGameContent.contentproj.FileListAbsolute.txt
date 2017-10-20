@@ -1,0 +1,4 @@
+C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\chrtho20\Desktop\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame 1\TowerSiegeGame\TowerSiegeGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dobbydoo\Documents\Visual Studio 2010\Projects\C#\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGame\TowerSiegeGameContent\obj\x86\Debug\TowerSiegeGameContent.contentprojResolveAssemblyReference.cache
